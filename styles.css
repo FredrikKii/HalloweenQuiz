@@ -1,0 +1,33 @@
+body {
+	margin:0;
+	padding:0;
+	background-color: black;
+}
+
+.header {
+	text-align: center;
+	color: orange;
+	font-family: 'Satisfy', cursive;
+	font-size: 1.4em;
+}
+.pumpa {
+	height:200px;
+	width:200px;
+}
+
+h2 {
+	text-align: center;
+	color: orange;
+	font-family: 'Satisfy', cursive;
+	margin-top: 100px;
+	font-size: 3em;
+
+}
+h3 {
+	text-align: center;
+	color: orange;	
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin-top: 50px;
+	font-size:1.5em;
+	padding: 10px;
+}
